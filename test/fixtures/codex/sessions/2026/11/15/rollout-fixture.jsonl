@@ -1,0 +1,3 @@
+{"type":"session_meta","payload":{"id":"codex-fixture","cwd":"C:/Fixture/Codex","thread_source":"user"}}
+{"type":"event_msg","timestamp":"2026-11-15T12:00:00Z","payload":{"type":"user_message","message":"My test project is named Sapphire. Remember it."}}
+{"type":"event_msg","timestamp":"2026-11-15T12:00:01Z","payload":{"type":"agent_message","message":"Your project is named Sapphire.","phase":"final"}}
